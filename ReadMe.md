@@ -98,17 +98,7 @@ Upon successful image analysis, the system displays the following:
 - **Hash**: Unique hash for the file.
 - **Image**: Segmented skin image or result URL.
 
----
 
-## Screenshots
-
-**Homepage**  
-![Homepage Screenshot](public/assets/homepage.png)
-
-**Results Page**  
-![Results Page Screenshot](public/assets/results.png)
-
----
 
 ## Future Improvements
 
