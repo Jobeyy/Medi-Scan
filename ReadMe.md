@@ -41,7 +41,7 @@ Detect Brain MRI cancer using state-of-the-art models (YOLO).
 ### Frontend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/medi-scan.git
+   git clone [https://github.com/Jobeyy/Medi-Scan.git]
    cd medi-scan
    ```
 
