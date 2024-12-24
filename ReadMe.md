@@ -1,6 +1,3 @@
-Here’s a **README.md** for your project:
-
----
 
 # MediScan: Skin Cancer & Brain Cancer Detection Application
 
