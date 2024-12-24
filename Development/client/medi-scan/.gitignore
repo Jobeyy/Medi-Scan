@@ -1,6 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-__pycache__
 # dependencies
 /node_modules
 /.pnp
@@ -35,15 +34,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-#.vscode folder
-.vscode
-
-#custom virtual environment thats not to be uploaded
-D:\Downloads\FinalProject\FinalProject4390\customenv
-customenv
-venv
-
-# whatever you do do not upload the json.
-# athey will have free access to our database if you do. Either way its blocked
-meditensor-2178cd54ff6e.json
