@@ -18,7 +18,7 @@ Detect Brain MRI cancer using state-of-the-art models (YOLO).
 ## Technologies Used
 
 ### **Frontend**
-- **React.js**: For building the dynamic and interactive user interface.
+- **Next.js & React.js**: For building the dynamic and interactive user interface.
 - **Tailwind CSS**: For styling and responsive design.
 
 ### **Backend**
@@ -33,10 +33,10 @@ Detect Brain MRI cancer using state-of-the-art models (YOLO).
 ## Installation and Setup
 
 ### Prerequisites
-- **Node.js** (for running the frontend)
+- **Next.js** (for running the frontend)
 - **Python** (for backend/ML service)
-- **Package Manager**: npm or yarn
-- **Flask** (for backend server, if using Python)
+- **Package Manager**: npm
+- **Flask** (Python)
 
 ### Frontend Setup
 1. Clone the repository:
